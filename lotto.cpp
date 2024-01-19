@@ -18,6 +18,7 @@ int main()
         }
         nums.push_back(num);
     }
+    
     int n = nums.size();
     for (int i = 0; i < n - 1; i++)
     {
